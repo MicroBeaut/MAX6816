@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For MAX6816
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MAX6816         KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+switchMode      KEYWORD2
+debounce        KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DEBOUNCE_PERIOD LITERAL1
+input           LITERAL1
+output          LITERAL1
