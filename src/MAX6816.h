@@ -12,7 +12,7 @@
 
 #include <Arduino.h>
 
-#define MAX6816_VERSION "1.0.0"
+#define MAX6816_VERSION "1.0.2"
 #define MAX6816_AUTHOR "MicroBeaut"
 
 #define DEBOUNCE_PERIOD 10UL
